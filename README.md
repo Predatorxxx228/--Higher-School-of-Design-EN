@@ -1,1 +1,1 @@
-# -Higher-School-of-Design-EN
+# --Higher-School-of-Design-EN
