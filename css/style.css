@@ -37,6 +37,10 @@ a:active {
     color:#fff;
 }
 
+.right{
+    gap:30px;
+}
+
 .h_ru{
 
     height: 116px;
