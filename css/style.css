@@ -52,6 +52,12 @@ a:active {
     margin: 0;
 }
 
+.right{
+    gap:0px;
+    display: flex;
+    flex-direction:row;
+}
+
 .header_ru{
     display: flex;
     flex-direction: row;
