@@ -56,7 +56,11 @@ a:active {
     align-items: center;
     width: 1209px;
 }
-
+.right{
+    gap:0px;
+    display: flex;
+    flex-direction:row;
+}
 .btts{
     margin:0;
     display: flex;
